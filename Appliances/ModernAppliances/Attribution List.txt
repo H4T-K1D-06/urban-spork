@@ -1,0 +1,6 @@
+Mark Tan:
+Wrote most of ModernAppliances.cs
+
+Calum Aldridge:
+Mistakenly write subAppliances.cs (Give him some credit for that)
+Wrote part of ModernAppliances.cs
